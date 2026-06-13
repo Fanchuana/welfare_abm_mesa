@@ -1,0 +1,12 @@
+flow,mean
+wages,302132.8556639114
+income_tax,60426.57113278229
+corporate_tax,98086.44933862537
+ubi,43553.0
+targeted,24297.525
+consumption,288529.583232369
+tax_revenue,158513.02047140765
+welfare_spending,67850.525
+treasury_delta,90662.49547140766
+false_positive,611.925
+false_negative,1251.15

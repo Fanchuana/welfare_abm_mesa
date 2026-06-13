@@ -1,0 +1,21 @@
+name: welfare-abm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - mesa>=3.0.0
+      - networkx==3.3
+      - numpy>=1.26,<2
+      - pandas==2.2.3
+      - scipy==1.13.1
+      - matplotlib==3.8.4
+      - contourpy==1.2.1
+      - kiwisolver==1.4.5
+      - pillow==10.4.0
+      - fonttools==4.53.1
+      - pytest==8.3.4
+      - pyarrow==17.0.0
+      - streamlit==1.40.2
+      - reportlab>=4.0
